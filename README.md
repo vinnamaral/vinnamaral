@@ -108,7 +108,7 @@ These are some of the technologies and tools that I work with:-->
   <img align="center" alt="Vini-VSC" src="https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="Vini-Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse&logoColor=white">
   <img align="center" alt="Vini-Jira" src="https://img.shields.io/badge/-JIRA-0052CC?&logo=jira">
-  <img align="center" alt="Vini-Postman" src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
+  <img align="center" alt="Vini-Postmann" src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
   
  
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;"
