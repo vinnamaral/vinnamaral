@@ -41,7 +41,7 @@ These are some of the technologies and tools that I work with:-->
   
   
   <!-- badges de tamanhos menor (flat square)
-  <img align="center" alt="Vini-Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img align="center" alt="Vini-Androidd" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img align="center" alt="Vini-Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
   <img align="center" alt="Vini-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white">
   <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
