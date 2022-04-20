@@ -106,6 +106,7 @@ These are some of the technologies and tools that I work with:-->
   <img align="center" alt="Vini-GitHub" src="https://img.shields.io/badge/-GitHub-181717?&logo=github">
   <img align="center" alt="Vini-AS" src="https://img.shields.io/badge/Android_Studio-3DDC84?&logo=android-studio&logoColor=white">
   <img align="center" alt="Vini-VSC" src="https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="Vini-Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white">
   <img align="center" alt="Vini-Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse&logoColor=white">
   <img align="center" alt="Vini-Jira" src="https://img.shields.io/badge/-JIRA-0052CC?&logo=jira">
   <img align="center" alt="Vini-Postmann" src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
