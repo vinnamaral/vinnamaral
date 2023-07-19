@@ -1,6 +1,6 @@
 ### Hey mate! 👋
 ### I'm Vinicius Amaral, or just Vini 😊
-#### I'm a Developer | Software Engineer, and I've been working in tech since 2005.
+#### I'm a Developer | Software Engineer | Tech Lead, and I've been working in tech since 2005.
 #### Enthusiastic and passionate for news technologies, agile evangelist, I’m constantly learning.
 #### Here you can find my personal projects 😉
 
