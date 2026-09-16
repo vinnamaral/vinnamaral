@@ -117,9 +117,11 @@ These are some of the technologies and tools that I work with:-->
   <a href = "mailto:vinnamaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinnamaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/vinnamaral/vinnamaral/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-  </p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnamaral/vinnamaral/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinnamaral/vinnamaral/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vinnamaral/vinnamaral/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
   
