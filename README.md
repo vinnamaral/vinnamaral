@@ -96,7 +96,6 @@ These are some of the technologies and tools that I work with:-->
   <img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white">
   <img align="center" alt="Vini-Angular" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white">
   <img align="center" alt="Vini-Node" src="https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white">
-  <img align="center" alt="Vini-Firebase" src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black">
   <img align="center" alt="Vini-AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Vini-Git" src="https://img.shields.io/badge/-Git-black?&logo=git">
   <img align="center" alt="Vini-GitHub" src="https://img.shields.io/badge/-GitHub-181717?&logo=github">
