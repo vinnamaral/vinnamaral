@@ -1,8 +1,8 @@
 ### Hey mate! 👋
-### I'm Vinicius Amaral, or just Vini 😊
-#### I've been working in tech since 2005.
-#### Enthusiastic and passionate for news technologies, I’m constantly learning.
-#### Here you can find my personal projects 😉
+### I'm Vinicius, or just Vini 😊
+#### Technology Leader | 20+ years in tech
+#### Passionate about technology, people, and continuous learning 🚀
+#### Here you’ll find my personal projects and experiments 😉
 
 <!--
 **vinnamaral/vinnamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
