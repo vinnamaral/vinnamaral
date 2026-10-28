@@ -1,8 +1,8 @@
 ### Hey mate! 👋
 ### I'm Vinicius, or just Vini 😊
 #### Technology Leader | 20+ years in tech
-#### Passionate about technology, people, and continuous learning 🚀
-#### Here you’ll find my personal projects and experiments 😉
+#### Passionate about building great products, growing people, and exploring new technologies. 🚀
+#### Here you’ll find personal projects, experiments, and things I’m curious about. 😉
 
 <!--
 **vinnamaral/vinnamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
